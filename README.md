@@ -9,11 +9,16 @@ I'm a Bachelor of Software Engineering student at Tunku Abdul Rahman University 
 
 ## Skills
 
-- **Software Engineering**: I'm well-versed in Software Development Life Cycle (SDLC), Software Testing, Software Architecture Design, and Software Evolution & Maintenance
-- **Programming Languages**: C, C++, C#, Java, Python, Kotlin, PHP and Javascript
-- **Web Development**: Flask, ASP.Net, HTML, CSS
-- **Artificial Intelligence**: Multilingual Sentiment Analysis(research project) and Machine Learning
-- **Database Management**: SQL, Firebase, and JSON
+- **Software Engineering**:
+  I'm well-versed in Software Development Life Cycle (SDLC), Software Testing, Software Architecture Design, and Software Evolution & Maintenance
+- **Programming Languages**:
+  C, C++, C#, Java, Python, Kotlin, PHP and Javascript
+- **Web Development**:
+  Flask, ASP.Net, HTML, CSS
+- **Artificial Intelligence**:
+  Multilingual Sentiment Analysis(research project) and Machine Learning
+- **Database Management**:
+  SQL, Firebase, and JSON
 
 <!--
 **LamontChean/LamontChean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
