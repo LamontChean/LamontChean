@@ -10,7 +10,7 @@ I'm a Bachelor of Software Engineering student at Tunku Abdul Rahman University 
 ## Skills
 
 - **Software Engineering**:  
-  I'm well-versed in Software Development Life Cycle (SDLC), Software Testing, Software Architecture Design, and Software Evolution & Maintenance
+  Software Development Life Cycle (SDLC), Software Testing, Software Architecture Design, and Software Evolution & Maintenance
 - **Programming Languages**:  
   C, C++, C#, Java, Python, Kotlin, PHP and Javascript
 - **Web Development**:  
