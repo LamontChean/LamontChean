@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi, I'm Kae Lun 👋
+
+I'm a Bachelor of Software Engineering student at Tunku Abdul Rahman University of Management & Technology (TARUMT). I'm passionate about software engineering and enjoy exploring various aspects of the field.
+
+## About Me
+
+- 🎓 **Education**: Bachelor of Software Engineering at TARUMT
+- 📧 **Email**: lamontchean0517@gmail.com
+
+## Skills
+
+- **Software Engineering**: I'm well-versed in Software Development Life Cycle (SDLC), Software Testing, Software Architecture Design, and Software Evolution & Maintenance
+- **Programming Languages**: C, C++, C#, Java, Python, Kotlin, PHP and Javascript
+- **Web Development**: Flask, ASP.Net, HTML, CSS
+- **Artificial Intelligence**: Multilingual Sentiment Analysis(research project) and Machine Learning
+- **Database Management**: SQL, Firebase, and JSON
 
 <!--
 **LamontChean/LamontChean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
