@@ -14,7 +14,7 @@ I'm a Bachelor of Software Engineering student at Tunku Abdul Rahman University 
 - **Programming Languages**:  
   C, C++, C#, Java, Python, Kotlin, PHP and Javascript
 - **Web Development**:  
-  Flask, ASP.Net, HTML, CSS
+  Flask, ASP.Net, HTML, CSS, Bootstrap
 - **Artificial Intelligence**:  
   Multilingual Sentiment Analysis(research project) and Machine Learning
 - **Database Management**:  
